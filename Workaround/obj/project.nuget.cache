@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EHVh2YsqsDPCZLEhW9TZRLPcCUWMQFVCaVKDNAqygOucYCJqnlx00wCCkGOUpNG0cTLOg1ptP8/p2+lYirab+g==",
+  "dgSpecHash": "u2PQvgQgm6E=",
   "success": true,
-  "projectFilePath": "C:\\Users\\emiry\\OneDrive\\Masaüstü\\programlama\\vsstdcd\\MaskeTakip\\Workaround\\Workaround.csproj",
+  "projectFilePath": "C:\\Users\\emiry\\Source\\Repos\\MaskeTakip\\Workaround\\Workaround.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\emiry\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\5.0.0\\microsoft.bcl.asyncinterfaces.5.0.0.nupkg.sha512",
     "C:\\Users\\emiry\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Workaround")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9a24bce4a4adb088efd2d89142d9096fc4207109")]
 [assembly: System.Reflection.AssemblyProductAttribute("Workaround")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Workaround")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

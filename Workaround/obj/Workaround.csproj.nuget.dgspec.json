@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\emiry\\OneDrive\\Masaüstü\\programlama\\vsstdcd\\MaskeTakip\\Workaround\\Workaround.csproj": {}
+    "C:\\Users\\emiry\\Source\\Repos\\MaskeTakip\\Workaround\\Workaround.csproj": {}
   },
   "projects": {
-    "C:\\Users\\emiry\\OneDrive\\Masaüstü\\programlama\\vsstdcd\\MaskeTakip\\Business\\Business.csproj": {
+    "C:\\Users\\emiry\\Source\\Repos\\MaskeTakip\\Business\\Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\emiry\\OneDrive\\Masaüstü\\programlama\\vsstdcd\\MaskeTakip\\Business\\Business.csproj",
+        "projectUniqueName": "C:\\Users\\emiry\\Source\\Repos\\MaskeTakip\\Business\\Business.csproj",
         "projectName": "Business",
-        "projectPath": "C:\\Users\\emiry\\OneDrive\\Masaüstü\\programlama\\vsstdcd\\MaskeTakip\\Business\\Business.csproj",
+        "projectPath": "C:\\Users\\emiry\\Source\\Repos\\MaskeTakip\\Business\\Business.csproj",
         "packagesPath": "C:\\Users\\emiry\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\emiry\\OneDrive\\Masaüstü\\programlama\\vsstdcd\\MaskeTakip\\Business\\obj\\",
+        "outputPath": "C:\\Users\\emiry\\Source\\Repos\\MaskeTakip\\Business\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -26,14 +26,15 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\emiry\\OneDrive\\Masaüstü\\programlama\\vsstdcd\\MaskeTakip\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Users\\emiry\\OneDrive\\Masaüstü\\programlama\\vsstdcd\\MaskeTakip\\Entities\\Entities.csproj"
+              "C:\\Users\\emiry\\Source\\Repos\\MaskeTakip\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\emiry\\Source\\Repos\\MaskeTakip\\Entities\\Entities.csproj"
               }
             }
           }
@@ -42,6 +43,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -85,18 +91,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\emiry\\OneDrive\\Masaüstü\\programlama\\vsstdcd\\MaskeTakip\\Entities\\Entities.csproj": {
+    "C:\\Users\\emiry\\Source\\Repos\\MaskeTakip\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\emiry\\OneDrive\\Masaüstü\\programlama\\vsstdcd\\MaskeTakip\\Entities\\Entities.csproj",
+        "projectUniqueName": "C:\\Users\\emiry\\Source\\Repos\\MaskeTakip\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "C:\\Users\\emiry\\OneDrive\\Masaüstü\\programlama\\vsstdcd\\MaskeTakip\\Entities\\Entities.csproj",
+        "projectPath": "C:\\Users\\emiry\\Source\\Repos\\MaskeTakip\\Entities\\Entities.csproj",
         "packagesPath": "C:\\Users\\emiry\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\emiry\\OneDrive\\Masaüstü\\programlama\\vsstdcd\\MaskeTakip\\Entities\\obj\\",
+        "outputPath": "C:\\Users\\emiry\\Source\\Repos\\MaskeTakip\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -111,6 +117,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -123,6 +130,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -144,18 +156,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\emiry\\OneDrive\\Masaüstü\\programlama\\vsstdcd\\MaskeTakip\\Workaround\\Workaround.csproj": {
+    "C:\\Users\\emiry\\Source\\Repos\\MaskeTakip\\Workaround\\Workaround.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\emiry\\OneDrive\\Masaüstü\\programlama\\vsstdcd\\MaskeTakip\\Workaround\\Workaround.csproj",
+        "projectUniqueName": "C:\\Users\\emiry\\Source\\Repos\\MaskeTakip\\Workaround\\Workaround.csproj",
         "projectName": "Workaround",
-        "projectPath": "C:\\Users\\emiry\\OneDrive\\Masaüstü\\programlama\\vsstdcd\\MaskeTakip\\Workaround\\Workaround.csproj",
+        "projectPath": "C:\\Users\\emiry\\Source\\Repos\\MaskeTakip\\Workaround\\Workaround.csproj",
         "packagesPath": "C:\\Users\\emiry\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\emiry\\OneDrive\\Masaüstü\\programlama\\vsstdcd\\MaskeTakip\\Workaround\\obj\\",
+        "outputPath": "C:\\Users\\emiry\\Source\\Repos\\MaskeTakip\\Workaround\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -170,17 +182,18 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\emiry\\OneDrive\\Masaüstü\\programlama\\vsstdcd\\MaskeTakip\\Business\\Business.csproj": {
-                "projectPath": "C:\\Users\\emiry\\OneDrive\\Masaüstü\\programlama\\vsstdcd\\MaskeTakip\\Business\\Business.csproj"
+              "C:\\Users\\emiry\\Source\\Repos\\MaskeTakip\\Business\\Business.csproj": {
+                "projectPath": "C:\\Users\\emiry\\Source\\Repos\\MaskeTakip\\Business\\Business.csproj"
               },
-              "C:\\Users\\emiry\\OneDrive\\Masaüstü\\programlama\\vsstdcd\\MaskeTakip\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Users\\emiry\\OneDrive\\Masaüstü\\programlama\\vsstdcd\\MaskeTakip\\Entities\\Entities.csproj"
+              "C:\\Users\\emiry\\Source\\Repos\\MaskeTakip\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\emiry\\Source\\Repos\\MaskeTakip\\Entities\\Entities.csproj"
               }
             }
           }
@@ -189,6 +202,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -210,7 +228,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
